@@ -1,4 +1,5 @@
-# find-it
+# FindIt
+<https://find-it-yelp.netlify.com/>
 
 ## Project setup
 ```
