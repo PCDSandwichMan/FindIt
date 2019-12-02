@@ -1,5 +1,5 @@
 # FindIt
-**Hosted At:**<https://find-it-yelp.netlify.com/>
+**Hosted At: **<find-it-yelp.netlify.com>
 
 ## Project setup
 ```
